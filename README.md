@@ -5,10 +5,10 @@ Colorful theme with an essence of IDE, which inspire authors to write projects l
 This theme is just about the colors and the font inpired by IDEs.
 
 ### Dark theme
-![](Screenshot Dark.png)
+![screenshot](Screenshot Dark.png)
 
 ### Light theme
-![](Screenshot Light.png)
+![screenshot](Screenshot Light.png)
 
 ## I just love it
 I developed the theme with no expectations, I just wanted to learn some CSS, but I absolutely loved the result and I want to share the result with you.
